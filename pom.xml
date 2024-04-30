@@ -19,12 +19,6 @@
 			<version>7.10.0</version>
 			<scope>test</scope>
 		</dependency>
-
-		<dependency>
-			<groupId>com.edureka</groupId>
-			<artifactId>selinium-tutorials</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
